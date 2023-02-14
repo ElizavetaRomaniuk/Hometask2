@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// To see the second digit of the number
 Console.WriteLine("Input the number");
 int a = Convert.ToInt32(Console.ReadLine());
 
